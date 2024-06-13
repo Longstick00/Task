@@ -1,0 +1,30 @@
+============================인덱스 O============================
+
+============================500만, 10============================
+avgTime = 0.05199948  BigBatchArray
+avgTime = 0.02558798  BigBatchParallelArray
+avgTime = 0.07577272  BigBatchArrayList
+avgTime = 0.04337702  BigBatchParallelList
+avgTime = 0.18860142  BigBatchLinkedList
+avgTime = 0.13538196  BigBatchMap
+============================50만, 100============================
+avgTime = 0.01573618  BigBatchArray
+avgTime = 0.01473606  BigBatchParallelArray
+avgTime = 0.01498660  BigBatchArrayList
+avgTime = 0.01277434  BigBatchParallelList
+avgTime = 0.02282690  BigBatchLinkedList
+avgTime = 0.02296786  BigBatchMap
+============================50만, 1000============================
+avgTime = 0.14754118  BigBatchArray
+avgTime = 0.06413864  BigBatchParallelArray
+avgTime = 0.18135878  BigBatchArrayList
+avgTime = 0.07291580  BigBatchParallelList
+avgTime = 0.16926616  BigBatchLinkedList
+avgTime = 0.18795630  BigBatchMap
+============================5만, 10000============================
+avgTime = 0.07212484  BigBatchArray
+avgTime = 0.03924746  BigBatchParallelArray
+avgTime = 0.10485318  BigBatchArrayList
+avgTime = 0.03598602  BigBatchParallelList
+avgTime = 0.07628300  BigBatchLinkedList
+avgTime = 0.08987014  BigBatchMap
